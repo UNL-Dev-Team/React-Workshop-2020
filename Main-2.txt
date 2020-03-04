@@ -31,3 +31,16 @@ class Main extends Component {
     );
   }
 }
+
+
+Part C:
+
+<div className="content">
+  <Route exact path="/" component={Home}/>
+  <Route path="/stuff" component={Stuff}/>
+  <Route path="/contact" component={Contact}/>
+</div>
+
+
+Pat D:
+
