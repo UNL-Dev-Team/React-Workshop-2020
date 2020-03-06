@@ -6,8 +6,6 @@ import {
   HashRouter
 } from "react-router-dom";
 
-
-import ExamplesNavbar from "./Components/Navbars/ExamplesNavbar.js";
 import Home from "./Home";
 import Experience from "./Experience";
 import GeneralInfo from "./GeneralInfo";
